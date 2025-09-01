@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "815720036743",
+    "firebase_url": "https://voiceorderapp-default-rtdb.firebaseio.com",
+    "project_id": "voiceorderapp",
+    "storage_bucket": "voiceorderapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815720036743:android:53cc2848789ebe1469bb22",
+        "android_client_info": {
+          "package_name": "com.voiceorderapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl2ZS6A4n8AjNOoX8KJDDVwEEOYIQBVMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
